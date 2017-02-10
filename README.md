@@ -8,8 +8,7 @@ How to see the error:
 
 
 ```
-$ grails war
-Using grailsw
+$ ./grailsw war
 | Compiling 10 source files
 
 | Processing File 1 of 26 - apple-touch-icon-retina.png
@@ -24,7 +23,7 @@ INFORMATION: [  Envjs/1.6 (Rhino; U; Mac OS X x86_64 10.12.3; en-US; rv:1.7.0.rc
 Feb 10, 2017 4:34:14 PM java_util_logging_Logger$info$0 call
 | Done creating WAR target/sample_babel_issue_14-0.1.war
 
-$ grails war
+$ ./grailsw war
 | Processing File 19 of 26 - application.css
 | Processing File 26 of 26 - jquery/jquery-1.11.1.min.map
 Feb 10, 2017 4:34:36 PM java_util_logging_Logger$info$0 call
