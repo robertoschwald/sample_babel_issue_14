@@ -1,6 +1,7 @@
 Sample application for https://github.com/peh/grails-babel-asset-pipeline/issues/14
 
 How to see the error:
+
 1. Checkout the project
 2. Call "grailsw war"
 3. If you do not get the error, repeat "grails war" until you see it.
